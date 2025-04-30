@@ -1,0 +1,16 @@
+Methodology:
+
+1.  Database: 
+	* The database that was used to store the data is MySQL, and it's named "Healthcare".
+
+2.  Tables:
+	* Tables were created in order to hold the data of different types of information
+		* Patients: This table stores the details of the patients such as their name, contact number, gender, etc.
+		* Doctors: This table stores the details of the doctors such as their name, specialty, department, etc.
+		* Appointments: This table stores the details of the patients appointment such as who, when, and the reason
+		* Medical_Records: This table stores the medical history of the patient
+		* Billing: This table stores the billing information about the patient such as their amount, payment status, and date.
+
+3. What tools were used 
+	* A MySQL server was used to manage the database in order to write and run the code
+
